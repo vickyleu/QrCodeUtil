@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="qrcode-generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/qrcode_generator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="qrcode-generator.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="qrcode-generator" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: com.google.zxing:core:2.1" />
+        <element id="library" level="project" name="Maven: net.java.dev.swing-layout:swing-layout:1.0" />
+      </element>
+    </root>
+  </artifact>
+</component>
