@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c28191-e723-48a9-8e01-c6d1abe23eb0" name="Default" comment="" />
+    <list default="true" id="74c28191-e723-48a9-8e01-c6d1abe23eb0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exe/error.log" afterPath="$PROJECT_DIR$/../exe/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exe/qrcode.xml" afterPath="$PROJECT_DIR$/../exe/qrcode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java" />
+    </list>
     <ignored path="qrcode-generator.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,51 +36,19 @@
       <file leaf-file-name="QrcodeGenerator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-263">
-              <caret line="263" column="37" selection-start-line="263" selection-start-column="37" selection-end-line="263" selection-end-column="37" />
+            <state relative-caret-position="286">
+              <caret line="806" column="59" selection-start-line="806" selection-start-column="59" selection-end-line="806" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1892#1919#0" expanded="true" />
-                <element signature="e#4696#6038#0" expanded="true" />
-                <element signature="e#6037#6038#0" expanded="true" />
-                <element signature="e#10290#10475#0" expanded="true" />
-                <element signature="e#10403#10404#0" expanded="false" />
-                <element signature="e#10464#10465#0" expanded="false" />
-                <element signature="e#10474#10475#0" expanded="true" />
-                <element signature="e#10972#11218#0" expanded="true" />
-                <element signature="e#11217#11218#0" expanded="true" />
-                <element signature="e#17311#18210#0" expanded="true" />
-                <element signature="e#18209#18210#0" expanded="true" />
-                <element signature="e#18441#18722#0" expanded="true" />
-                <element signature="e#18721#18722#0" expanded="true" />
-                <element signature="e#18797#19416#0" expanded="true" />
-                <element signature="e#19415#19416#0" expanded="true" />
                 <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-                <element signature="e#27114#27129#0" expanded="true" />
-                <element signature="e#30890#31878#0" expanded="true" />
-                <element signature="e#31877#31878#0" expanded="true" />
                 <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
                 <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-                <element signature="e#33434#33562#0" expanded="true" />
-                <element signature="e#33561#33562#0" expanded="true" />
-                <element signature="e#34121#34165#0" expanded="true" />
                 <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
                 <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
                 <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
                 <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-                <element signature="e#48644#48672#0" expanded="true" />
                 <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graphics.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/Graphics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="1044" column="48" selection-start-line="1037" selection-start-column="27" selection-end-line="1044" selection-end-column="48" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -87,6 +61,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -128,6 +105,11 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -135,14 +117,14 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -160,73 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches">
-        <subPane />
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator-1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator-1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode-generator-1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qrcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Production">
@@ -258,6 +173,19 @@
           </PATH>
         </subPane>
         <subPane subId="Tests" />
+      </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qrcode-generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="PackagesPane">
         <subPane />
@@ -721,6 +649,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="74c28191-e723-48a9-8e01-c6d1abe23eb0" name="Default" comment="" />
@@ -734,25 +665,34 @@
       <workItem from="1475208951935" duration="256000" />
       <workItem from="1475209218973" duration="3265000" />
       <workItem from="1475217044804" duration="12001000" />
+      <workItem from="1476172995243" duration="257000" />
+      <workItem from="1476173550019" duration="142000" />
     </task>
+    <task id="LOCAL-00001" summary="aa">
+      <created>1476173062439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476173062439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55154000" />
+    <option name="totallyTimeSpent" value="55553000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27349526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27349526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -767,6 +707,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -781,6 +722,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -802,35 +747,13 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>
@@ -842,35 +765,13 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>
@@ -882,35 +783,13 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>
@@ -922,35 +801,13 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>
@@ -962,35 +819,49 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
+            <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
+            <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>
@@ -1019,52 +890,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/JOptionPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13293">
-          <caret line="633" column="40" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/BufferedImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22218">
-          <caret line="1058" column="0" selection-start-line="1058" selection-start-column="0" selection-end-line="1058" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/JOptionPane.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/BufferedImage.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/qrcode/qrcode.form" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/qrcode/qrcode.java" />
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/SunHints.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/RenderingHints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="416" column="26" selection-start-line="416" selection-start-column="26" selection-end-line="416" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/UIManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="176" column="13" selection-start-line="176" selection-start-column="13" selection-end-line="176" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/SunHints.class" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/RenderingHints.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/UIManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/qrcode/gui/MainGui.form" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/qrcode/gui/MainGui.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QRCode.form">
@@ -1084,27 +917,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/PackedColorModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="396" column="0" selection-start-line="396" selection-start-column="0" selection-end-line="396" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/ByteInterleavedRaster.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/JOptionPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12180">
-          <caret line="633" column="40" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/PackedColorModel.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/ByteInterleavedRaster.class" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/swing/JOptionPane.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/Runnablex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1123,13 +938,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="744" column="0" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/core/Auto_generate_condition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1160,77 +969,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/ColorModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="925" column="18" selection-start-line="925" selection-start-column="18" selection-end-line="925" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/Raster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="1464" column="18" selection-start-line="1464" selection-start-column="18" selection-end-line="1464" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/SampleModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="533" column="25" selection-start-line="533" selection-start-column="25" selection-end-line="533" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/WritableRaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="282" column="25" selection-start-line="282" selection-start-column="25" selection-end-line="282" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/java2d/StateTrackableDelegate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/SunWritableRaster.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/DirectColorModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="764" column="0" selection-start-line="764" selection-start-column="0" selection-end-line="764" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/BufferedImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="1055" column="54" selection-start-line="1055" selection-start-column="54" selection-end-line="1055" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/IntegerInterleavedRaster.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1488">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/ext/jfxrt.jar!/version.rc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/ColorModel.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/Raster.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/SampleModel.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/WritableRaster.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/java2d/StateTrackableDelegate.class" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/SunWritableRaster.class" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/DirectColorModel.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/image/BufferedImage.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/rt.jar!/sun/awt/image/IntegerInterleavedRaster.class" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/jre/lib/ext/jfxrt.jar!/version.rc" />
     <entry file="file://$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1239,65 +987,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="800" column="16" selection-start-line="800" selection-start-column="16" selection-end-line="800" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/Graphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="1044" column="48" selection-start-line="1037" selection-start-column="27" selection-end-line="1044" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/imageio/ImageIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="1511" column="26" selection-start-line="1511" selection-start-column="26" selection-end-line="1511" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/Window.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/java/awt/Graphics.java" />
+    <entry file="jar://$PROJECT_DIR$/../../JavaHome/64/JDK/src.zip!/javax/imageio/ImageIO.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicky/qrcode/gui/QrcodeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret line="263" column="37" selection-start-line="263" selection-start-column="37" selection-end-line="263" selection-end-column="37" />
+        <state relative-caret-position="286">
+          <caret line="806" column="59" selection-start-line="806" selection-start-column="59" selection-end-line="806" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1892#1919#0" expanded="true" />
-            <element signature="e#4696#6038#0" expanded="true" />
-            <element signature="e#6037#6038#0" expanded="true" />
-            <element signature="e#10290#10475#0" expanded="true" />
-            <element signature="e#10403#10404#0" expanded="false" />
-            <element signature="e#10464#10465#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="true" />
-            <element signature="e#10972#11218#0" expanded="true" />
-            <element signature="e#11217#11218#0" expanded="true" />
-            <element signature="e#17311#18210#0" expanded="true" />
-            <element signature="e#18209#18210#0" expanded="true" />
-            <element signature="e#18441#18722#0" expanded="true" />
-            <element signature="e#18721#18722#0" expanded="true" />
-            <element signature="e#18797#19416#0" expanded="true" />
-            <element signature="e#19415#19416#0" expanded="true" />
             <element signature="method#getScaledImage#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#27114#27129#0" expanded="true" />
-            <element signature="e#30890#31878#0" expanded="true" />
-            <element signature="e#31877#31878#0" expanded="true" />
             <element signature="method#jTabbedPane6StateChanged#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#setLookAndFeel#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#33434#33562#0" expanded="true" />
-            <element signature="e#33561#33562#0" expanded="true" />
-            <element signature="e#34121#34165#0" expanded="true" />
             <element signature="docComment;method#mergePic#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#itemView#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#unusedMethod#0;class#QrcodeGenerator#0" expanded="false" />
             <element signature="method#resetImg#0;class#QrcodeGenerator#0" expanded="false" />
-            <element signature="e#48644#48672#0" expanded="true" />
             <element signature="class#PaintArea#0;class#QrcodeGenerator#0" expanded="false" />
           </folding>
         </state>

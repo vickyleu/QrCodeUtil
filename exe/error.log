@@ -1,30 +1,8 @@
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
-不使用logo
+Exception in thread "Thread-3" java.lang.NumberFormatException: For input string: "http://113.107.238.17/imtt.dd.qq.com/16891/FCEF69CF2A6231A7CEA9E23DDD35BBE2.apk?mkey=57fcbad619c13642&f=9432&c=0&fsname=com.cjgc.superfactory_1.1.0_1.apk&csr=4d5s&p=.apk"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.vicky.qrcode.core.Auto_generate_condition.format(Auto_generate_condition.java:24)
+	at com.vicky.qrcode.Condition.setQRCodeHint(Condition.java:25)
+	at com.vicky.qrcode.gui.QrcodeGenerator$11.run(QrcodeGenerator.java:840)
+	at java.lang.Thread.run(Unknown Source)

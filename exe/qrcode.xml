@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <java version="1.8.0_31" class="java.beans.XMLDecoder">
- <string>70</string>
+ <string>100</string>
  <string>C:\Users\Administrator\Desktop\exec\output</string>
- <string>baidu.com</string>
- <string>54</string>
- <string>baidu.com</string>
- <string>15</string>
- <string></string>
+ <string>http://113.107.238.17/imtt.dd.qq.com/16891/FCEF69CF2A6231A7CEA9E23DDD35BBE2.apk?mkey=57fcbad619c13642&amp;f=9432&amp;c=0&amp;fsname=com.cjgc.superfactory_1.1.0_1.apk&amp;csr=4d5s&amp;p=.apk</string>
+ <string>0</string>
+ <string>http://113.107.238.17/imtt.dd.qq.com/16891/FCEF69CF2A6231A7CEA9E23DDD35BBE2.apk?mkey=57fcbad619c13642&amp;f=9432&amp;c=0&amp;fsname=com.cjgc.superfactory_1.1.0_1.apk&amp;csr=4d5s&amp;p=.apk</string>
+ <string>1</string>
+ <string>C:\Develop\GitRepo\qrcode\exe\res\ic_launcher.png</string>
  <string>498</string>
  <string>170</string>
  <string>739</string>

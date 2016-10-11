@@ -270,7 +270,7 @@ public class QrcodeGenerator extends javax.swing.JFrame {
         jButton3 = new javax.swing.JButton();
 
 
-        
+
         jButton1 = new javax.swing.JButton();
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("超级工厂二维码生成器");
@@ -712,12 +712,12 @@ public class QrcodeGenerator extends javax.swing.JFrame {
             if (chooser1.showSaveDialog(this) != JFileChooser.APPROVE_OPTION) {
                 return;
             }
-            dirName = chooser1.getSelectedFile().getPath();
+            dirName = chooser1.getSelectedFile().getPath()+"/output";
         } else {
             if (chooser1.showSaveDialog(this) != JFileChooser.APPROVE_OPTION) {
                 return;
             }
-            dirName = chooser1.getSelectedFile().getPath();
+            dirName = chooser1.getSelectedFile().getPath()+"/output";
         }
 
 
@@ -804,12 +804,12 @@ public class QrcodeGenerator extends javax.swing.JFrame {
             if (chooser1.showSaveDialog(this) != JFileChooser.APPROVE_OPTION) {
                 return;
             }
-            dirName = chooser1.getSelectedFile().getPath();
+            dirName = chooser1.getSelectedFile().getPath() +"/output";
         } else {
             if (chooser1.showSaveDialog(this) != JFileChooser.APPROVE_OPTION) {
                 return;
             }
-            dirName = chooser1.getSelectedFile().getPath();
+            dirName = chooser1.getSelectedFile().getPath()+"/output";
         }
 
         final File parent = new File(dirName);
