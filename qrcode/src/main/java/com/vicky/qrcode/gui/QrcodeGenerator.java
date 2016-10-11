@@ -270,6 +270,7 @@ public class QrcodeGenerator extends javax.swing.JFrame {
         jButton3 = new javax.swing.JButton();
 
 
+        
         jButton1 = new javax.swing.JButton();
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("超级工厂二维码生成器");
